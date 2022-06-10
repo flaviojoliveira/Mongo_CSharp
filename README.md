@@ -10,7 +10,6 @@ C# é uma linguagem de programação orientada a objeto. Os quatro princípios b
 
 ## Descrição do Problema
 
-Ultizie essa api como meio de estudo sobre NoSQL com MongoDB juntamente com a integração com o .NET 6.
-Essa Aplicação Web é um simples CRUD para cadastro de Usuario, fazendo todas as operações, criar, editar e Deletar.
+Ultize essa api como meio de estudo sobre NoSQL com MongoDB juntamente com a integração com o .NET 6. Essa Aplicação Web é um simples CRUD para cadastro de Usuario, fazendo todas as operações, criar, editar e Deletar.
 
 <strong >Bons Estudos! </strong>
